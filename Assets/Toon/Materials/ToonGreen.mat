@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ToonGreen
-  m_Shader: {fileID: 4800000, guid: 99bb36e9d2c76874e8e8e2baed6debca, type: 3}
+  m_Shader: {fileID: 4800000, guid: edd731cdec28f624a83ab0f78ad24df8, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -80,3 +80,4 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 1.216786, g: 1.216786, b: 1.216786, a: 1}
     - _SpecularColor: {r: 0.8027793, g: 0.8027793, b: 0.8027793, a: 1}
+  m_BuildTextureStacks: []
